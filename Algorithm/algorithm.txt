@@ -1,0 +1,1 @@
+# algorithm is step-by-step procedure to solve a problem by using pseudo code and flowchart. 
